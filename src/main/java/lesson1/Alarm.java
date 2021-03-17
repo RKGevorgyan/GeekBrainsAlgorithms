@@ -3,6 +3,7 @@ package lesson1;
 import java.io.*;
 import java.util.*;
 
+
 public class Alarm {
     public static void main(String[] args) throws IOException {
         ArrayList<Integer> time = new ArrayList<>();

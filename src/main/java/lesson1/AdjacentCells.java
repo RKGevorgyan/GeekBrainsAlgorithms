@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
+
 public class AdjacentCells {
     private static ArrayList<Integer> out = new ArrayList<>();
     private static int fieldSize = 8;
