@@ -5,6 +5,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
+
 public class BeautifulNumbers {
     private static boolean check(int number){
         String strNumber = String.valueOf(number);
